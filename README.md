@@ -57,12 +57,12 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Stanford Parser] (http://nlp.stanford.edu/software/lex-parser.shtml) - A natural language parser is a program that works out the grammatical structure of sentences
 * [Stanford POS Tagger] (http://nlp.stanford.edu/software/tagger.shtml) - A Part-Of-Speech Tagger (POS Tagger
 * [Stanford Name Entity Recognizer] (http://nlp.stanford.edu/software/CRF-NER.shtml) - Stanford NER is a Java implementation of a Named Entity Recognizer.
-* [Stanford Word Segmenter] (http://nlp.stanford.edu/software/segmenter.shtml) - Tokenization of raw text is a standard pre-processing step for many NLP tasks. 
+* [Stanford Word Segmenter] (http://nlp.stanford.edu/software/segmenter.shtml) - Tokenization of raw text is a standard pre-processing step for many NLP tasks.
 * [Tregex, Tsurgeon and Semgrex](http://nlp.stanford.edu/software/tregex.shtml) - Tregex is a utility for matching patterns in trees, based on tree relationships and regular expression matches on nodes (the name is short for "tree regular expressions").
 * [Stanford Phrasal: A Phrase-Based Translation System](http://nlp.stanford.edu/software/phrasal/)
 * [Stanford English Tokenizer](http://nlp.stanford.edu/software/tokenizer.shtml) - Stanford Phrasal is a state-of-the-art statistical phrase-based machine translation system, written in Java.
 * [Stanford Tokens Regex](http://nlp.stanford.edu/software/tokensregex.shtml) - A tokenizer divides text into a sequence of tokens, which roughly correspond to "words"
-* [Stanford Temporal Tagger](http://nlp.stanford.edu/software/sutime.shtml) - SUTime is a library for recognizing and normalizing time expressions. 
+* [Stanford Temporal Tagger](http://nlp.stanford.edu/software/sutime.shtml) - SUTime is a library for recognizing and normalizing time expressions.
 * [Stanford SPIED](http://nlp.stanford.edu/software/patternslearning.shtml) - Learning entities from unlabeled text starting with seed sets using patterns in an iterative fashion
 * [Stanford Topic Modeling Toolbox](http://nlp.stanford.edu/software/tmt/tmt-0.4/) - Topic modeling tools to social scientists and others who wish to perform analysis on datasets
 * [Twitter Text Java](https://github.com/twitter/twitter-text-java) - A Java implementation of Twitter's text processing library
@@ -79,7 +79,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Stanford Classifier](http://nlp.stanford.edu/software/classifier.shtml) - A classifier is a machine learning tool that will take data items and place them into one of k classes.
 * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) - Weka is a collection of machine learning algorithms for data mining tasks
 * [ORYX](https://github.com/cloudera/oryx) - Simple real-time large-scale machine learning infrastructure.
-* [H2O](https://github.com/0xdata/h2o) - ML engine that supports distributed learning on data stored in HDFS. 
+* [H2O](https://github.com/0xdata/h2o) - ML engine that supports distributed learning on data stored in HDFS.
 
 #### Data Analysis / Data Visualization
 
@@ -92,7 +92,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 #### Natural Language Processing
 
 * [Twitter-text-js](https://github.com/twitter/twitter-text-js) - A JavaScript implementation of Twitter's text processing library
-* [NLP.js](https://github.com/nicktesla/nlpjs) - NLP utilities in javascript and coffeescript
+* [NLP.js](https://github.com/nicktesla/nlpjs) - NLP utilities in JavaScript and CoffeeScript
 
 
 #### Data Analysis / Data Visualization
@@ -159,7 +159,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Data Read](https://github.com/WizardMac/DataRead.jl) - Read files from Stata, SAS, and SPSS
 * [Hypothesis Tests](https://github.com/JuliaStats/HypothesisTests.jl) - Hypothesis tests for Julia
 * [Gladfly](https://github.com/dcjones/Gadfly.jl) - Crafty statistical graphics for Julia.
-* [Stats](https://github.com/johnmyleswhite/stats.jl) - Statistical tests for Julia 
+* [Stats](https://github.com/johnmyleswhite/stats.jl) - Statistical tests for Julia
 
 * [RDataSets](https://github.com/johnmyleswhite/RDatasets.jl) - Julia package for loading many of the data sets available in R
 * [DataFrames](https://github.com/JuliaStats/DataFrames.jl) - library for working with tabular data in Julia
@@ -201,8 +201,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 #### General-Purpose Machine Learning
 
-* [Training a deep autoencoder or a classifier 
-on MNIST digits](http://www.cs.toronto.edu/~hinton/MatlabForSciencePaper.html) - Training a deep autoencoder or a classifier 
+* [Training a deep autoencoder or a classifier
+on MNIST digits](http://www.cs.toronto.edu/~hinton/MatlabForSciencePaper.html) - Training a deep autoencoder or a classifier
 on MNIST digits[DEEP LEARNING]
 * [t-Distributed Stochastic Neighbor Embedding](http://homepage.tudelft.nl/19j49/t-SNE.html) - t-Distributed Stochastic Neighbor Embedding (t-SNE) is a (prize-winning) technique for dimensionality reduction that is particularly well suited for the visualization of high-dimensional datasets.
 * [Spider](http://people.kyb.tuebingen.mpg.de/spider/) - The spider is intended to be a complete object orientated environment for machine learning in Matlab.
@@ -213,7 +213,7 @@ on MNIST digits[DEEP LEARNING]
 
 #### Data Analysis / Data Visualization
 
-* [matlab_gbl](https://www.cs.purdue.edu/homes/dgleich/packages/matlab_bgl/) - MatlabBGL is a Matlab package for working with graphs. 
+* [matlab_gbl](https://www.cs.purdue.edu/homes/dgleich/packages/matlab_bgl/) - MatlabBGL is a Matlab package for working with graphs.
 * [gamic](http://www.mathworks.com/matlabcentral/fileexchange/24134-gaimc---graph-algorithms-in-matlab-code) - Efficient pure-Matlab implementations of graph algorithms to complement MatlabBGL's mex functions.
 
 ## Python
@@ -250,7 +250,7 @@ on MNIST digits[DEEP LEARNING]
 * [Bolt](https://github.com/pprett/bolt) - Bolt Online Learning Toolbox
 * [CoverTree](https://github.com/patvarilly/CoverTree) - Python implementation of cover trees, near-drop-in replacement for scipy.spatial.kdtree
 * [nilearn](https://github.com/nilearn/nilearn) - Machine learning for NeuroImaging in Python
-* [Shogun](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox	
+* [Shogun](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox
 * [Pyevolve](https://github.com/perone/Pyevolve) - Genetic algorithm framework.
 * [Caffe](http://caffe.berkeleyvision.org)  - A deep learning framework developed with cleanliness, readability, and speed in mind.
 
@@ -264,7 +264,7 @@ on MNIST digits[DEEP LEARNING]
 * [Open Mining](https://github.com/avelino/mining) - Business Intelligence (BI) in Python (Pandas web interface)
 * [PyMC](https://github.com/pymc-devs/pymc) - Markov Chain Monte Carlo sampling toolkit.
 * [zipline](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
-* [PyDy](https://pydy.org/) - Short for Python Dynamics, used to assist with workflow in the modeling of dynamic motion based around NumPy, SciPy, IPython, and matplotlib.
+* [PyDy](https://pydy.org/) - Short for Python Dynamics, used to assist with workflow in the modeling of dynamic motion-based around NumPy, SciPy, IPython, and matplotlib.
 * [SymPy](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
 * [statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 * [astropy](http://www.astropy.org/) - A community Python library for Astronomy.
@@ -272,7 +272,7 @@ on MNIST digits[DEEP LEARNING]
 * [bokeh](https://github.com/ContinuumIO/bokeh) - Interactive Web Plotting for Python.
 * [plotly](https://plot.ly/python) - Collaborative web plotting for Python and matplotlib.
 * [vincent](https://github.com/wrobstory/vincent) - A Python to Vega translator.
-* [d3py](https://github.com/mikedewar/d3py) - A plottling library for Python, based on [D3.js](http://d3js.org/).
+* [d3py](https://github.com/mikedewar/d3py) - A plotting library for Python, based on [D3.js](http://d3js.org/).
 * [ggplot](https://github.com/yhat/ggplot) - Same API as ggplot2 for R.
 * [Kartograph.py](https://github.com/kartograph/kartograph.py) - Rendering beautiful SVG maps in Python.
 * [pygal](http://pygal.org/) - A Python SVG Charts Creator.
@@ -298,19 +298,19 @@ on MNIST digits[DEEP LEARNING]
 * [mne-python-notebooks](https://github.com/mne-tools/mne-python-notebooks) - IPython notebooks for EEG/MEG data processing using mne-python
 * [pandas cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
 
-#### Kaggle Competition Source Code 
+#### Kaggle Competition Source Code
 
 * [wiki challange](https://github.com/hammer/wikichallenge) - An implementation of Dell Zhang's solution to Wikipedia's Participation Challenge on Kaggle
 * [kaggle insults](https://github.com/amueller/kaggle_insults) - Kaggle Submission for "Detecting Insults in Social Commentary"
 * [kaggle_acquire-valued-shoppers-challenge](https://github.com/MLWave/kaggle_acquire-valued-shoppers-challenge) - Code for the Kaggle acquire valued shoppers challenge
 * [kaggle-cifar](https://github.com/zygmuntz/kaggle-cifar) - Code for the CIFAR-10 competition at Kaggle, uses cuda-convnet
 * [kaggle-blackbox](https://github.com/zygmuntz/kaggle-blackbox) - Deep learning made easy
-* [kaggle-accelerometer](https://github.com/zygmuntz/kaggle-accelerometer) - Code for Accelerometer Biometric Competition at Kaggle 
-* [kaggle-advertised-salaries](https://github.com/zygmuntz/kaggle-advertised-salaries) - Predicting job salaries from ads - a Kaggle competition 
+* [kaggle-accelerometer](https://github.com/zygmuntz/kaggle-accelerometer) - Code for Accelerometer Biometric Competition at Kaggle
+* [kaggle-advertised-salaries](https://github.com/zygmuntz/kaggle-advertised-salaries) - Predicting job salaries from ads - a Kaggle competition
 * [kaggle amazon](https://github.com/zygmuntz/kaggle-amazon) - Amazon access control challenge
 * [kaggle-bestbuy_big](https://github.com/zygmuntz/kaggle-bestbuy_big) - Code for the Best Buy competition at Kaggle
 * [kaggle-bestbuy_small](https://github.com/zygmuntz/kaggle-bestbuy_small)
-* [Kaggle Dogs vs. Cats](https://github.com/kastnerkyle/kaggle-dogs-vs-cats) - Code for Kaggle Dovs vs. Cats competition
+* [Kaggle Dogs vs. Cats](https://github.com/kastnerkyle/kaggle-dogs-vs-cats) - Code for Kaggle Dogs vs. Cats competition
 * [Kaggle Galaxy Challenge](https://github.com/benanne/kaggle-galaxies) - Winning solution for the Galaxy Challenge on Kaggle
 * [Kaggle Gender](https://github.com/zygmuntz/kaggle-gender) - A Kaggle competition: discriminate gender based on handwriting
 * [Kaggle Merck](https://github.com/zygmuntz/kaggle-merck) - Merck challenge at Kaggle
@@ -323,12 +323,12 @@ on MNIST digits[DEEP LEARNING]
 #### Natural Language Processing
 
 * [Treat](https://github.com/louismullie/treat) -  Text REtrieval and Annotation Toolkit, definitely the most comprehensive toolkit I’ve encountered so far for Ruby
-* [Ruby Linguistics](http://www.deveiate.org/projects/Linguistics/) -  Linguistics is a framework for building linguistic utilities for Ruby objects in any language. It includes a generic language-independant front end, a module for mapping language codes into language names, and a module which contains various English-language utilities.
-* [Stemmer](https://github.com/aurelian/ruby-stemmer) - Expose libstemmer_c to Ruby 
+* [Ruby Linguistics](http://www.deveiate.org/projects/Linguistics/) -  Linguistics is a framework for building linguistic utilities for Ruby objects in any language. It includes a generic language-independent front end, a module for mapping language codes into language names, and a module which contains various English-language utilities.
+* [Stemmer](https://github.com/aurelian/ruby-stemmer) - Expose libstemmer_c to Ruby
 * [Ruby Wordnet](http://www.deveiate.org/projects/Ruby-WordNet/) - This library is a Ruby interface to WordNet
-* [Raspel](http://sourceforge.net/projects/raspell/) - raspell is an interface binding for ruby 
+* [Raspel](http://sourceforge.net/projects/raspell/) - raspell is an interface binding for ruby
 * [UEA Stemmer](https://github.com/ealdent/uea-stemmer) - Ruby port of UEALite Stemmer - a conservative stemmer for search and indexing
-* [Twitter-text-rb](https://github.com/twitter/twitter-text-rb) - A library that does auto linking and extraction of usernames, lists and hashtags in tweets
+* [Twitter-text-rb](https://github.com/twitter/twitter-text-rb) - A library that does auto-linking and extraction of usernames, lists and hashtags in tweets
 
 #### General-Purpose Machine Learning
 
@@ -342,7 +342,7 @@ on MNIST digits[DEEP LEARNING]
 
 * [rsruby](https://github.com/alexgutteridge/rsruby) - Ruby - R bridge
 * [data-visualization-ruby](https://github.com/chrislo/data_visualisation_ruby) - Source code and supporting content for my Ruby Manor presentation on Data Visualisation with Ruby
-* [ruby-plot](https://www.ruby-toolbox.com/projects/ruby-plot) - gnuplot wrapper for ruby, especially for plotting roc curves into svg files
+* [ruby-plot](https://www.ruby-toolbox.com/projects/ruby-plot) - gnuplot wrapper for ruby, especially for plotting roc curves into SVG files
 * [plot-rb](https://github.com/zuhao/plotrb) - A plotting library in Ruby built on top of Vega and D3.
 * [scruffy](http://www.rubyinside.com/scruffy-a-beautiful-graphing-toolkit-for-ruby-194.html) - A beautiful graphing toolkit for Ruby
 * [SciRuby](http://sciruby.com/)
@@ -395,7 +395,7 @@ on MNIST digits[DEEP LEARNING]
 * [Conjecture](https://github.com/etsy/Conjecture) - Scalable Machine Learning in Scalding
 * [brushfire](https://github.com/avibryant/brushfire) - decision trees for scalding
 * [ganitha](https://github.com/tresata/ganitha) - scalding powered machine learning
-* [adam](https://github.com/bigdatagenomics/adam) - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed. 
+* [adam](https://github.com/bigdatagenomics/adam) - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed.
 * [bioscala](https://github.com/bioscala/bioscala) - Bioinformatics for the Scala programming language
 * [BIDMach](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
 
@@ -403,5 +403,5 @@ on MNIST digits[DEEP LEARNING]
 ## Credits
 
 * Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python)
-* The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
+* The few go reference I found were pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
 
